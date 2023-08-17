@@ -1,7 +1,7 @@
 # Regresion_Linear_usando_Numpy
 Tecnicas de Machine learning con Numpy
 
-Regresion_Linear_usando_Numpy
+
 Este notebook contiene notas de estudio para implementar regresión lineal utilizando la biblioteca NumPy de Python.
 
 ## Descripción
